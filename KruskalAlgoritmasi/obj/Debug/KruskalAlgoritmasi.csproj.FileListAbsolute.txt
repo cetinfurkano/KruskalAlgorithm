@@ -1,0 +1,13 @@
+C:\Users\cetin\source\repos\KruskalAlgoritmasi\KruskalAlgoritmasi\bin\Debug\KruskalAlgoritmasi.exe.config
+C:\Users\cetin\source\repos\KruskalAlgoritmasi\KruskalAlgoritmasi\bin\Debug\KruskalAlgoritmasi.exe
+C:\Users\cetin\source\repos\KruskalAlgoritmasi\KruskalAlgoritmasi\bin\Debug\KruskalAlgoritmasi.pdb
+C:\Users\cetin\source\repos\KruskalAlgoritmasi\KruskalAlgoritmasi\obj\Debug\KruskalAlgoritmasi.csprojAssemblyReference.cache
+C:\Users\cetin\source\repos\KruskalAlgoritmasi\KruskalAlgoritmasi\obj\Debug\KruskalAlgoritmasi.Form1.resources
+C:\Users\cetin\source\repos\KruskalAlgoritmasi\KruskalAlgoritmasi\obj\Debug\KruskalAlgoritmasi.Properties.Resources.resources
+C:\Users\cetin\source\repos\KruskalAlgoritmasi\KruskalAlgoritmasi\obj\Debug\KruskalAlgoritmasi.csproj.GenerateResource.cache
+C:\Users\cetin\source\repos\KruskalAlgoritmasi\KruskalAlgoritmasi\obj\Debug\KruskalAlgoritmasi.csproj.CoreCompileInputs.cache
+C:\Users\cetin\source\repos\KruskalAlgoritmasi\KruskalAlgoritmasi\obj\Debug\KruskalAlgoritmasi.exe
+C:\Users\cetin\source\repos\KruskalAlgoritmasi\KruskalAlgoritmasi\obj\Debug\KruskalAlgoritmasi.pdb
+C:\Users\cetin\source\repos\KruskalAlgoritmasi\KruskalAlgoritmasi\obj\Debug\KruskalAlgoritmasi.Top.resources
+C:\Users\cetin\source\repos\KruskalAlgoritmasi\KruskalAlgoritmasi\obj\Debug\KruskalAlgoritmasi.Form2.resources
+C:\Users\cetin\source\repos\KruskalAlgoritmasi\KruskalAlgoritmasi\obj\Debug\KruskalAlgoritmasi.OrtaNokta.resources
